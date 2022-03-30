@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ezlyTech/savvy-weather-app.git/static/css/main.073c9b0a.css",
-    "main.js": "/ezlyTech/savvy-weather-app.git/static/js/main.a8f05b25.js",
-    "static/js/787.9895faeb.chunk.js": "/ezlyTech/savvy-weather-app.git/static/js/787.9895faeb.chunk.js",
-    "static/media/logo.svg": "/ezlyTech/savvy-weather-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ezlyTech/savvy-weather-app.git/index.html",
-    "main.073c9b0a.css.map": "/ezlyTech/savvy-weather-app.git/static/css/main.073c9b0a.css.map",
-    "main.a8f05b25.js.map": "/ezlyTech/savvy-weather-app.git/static/js/main.a8f05b25.js.map",
-    "787.9895faeb.chunk.js.map": "/ezlyTech/savvy-weather-app.git/static/js/787.9895faeb.chunk.js.map"
+    "main.css": "/savvy-weather-app/static/css/main.073c9b0a.css",
+    "main.js": "/savvy-weather-app/static/js/main.0eda2f01.js",
+    "static/js/787.9895faeb.chunk.js": "/savvy-weather-app/static/js/787.9895faeb.chunk.js",
+    "static/media/logo.svg": "/savvy-weather-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/savvy-weather-app/index.html",
+    "main.073c9b0a.css.map": "/savvy-weather-app/static/css/main.073c9b0a.css.map",
+    "main.0eda2f01.js.map": "/savvy-weather-app/static/js/main.0eda2f01.js.map",
+    "787.9895faeb.chunk.js.map": "/savvy-weather-app/static/js/787.9895faeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a8f05b25.js"
+    "static/js/main.0eda2f01.js"
   ]
 }
