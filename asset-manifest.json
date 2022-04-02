@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/savvy-weather-app/static/css/main.073c9b0a.css",
-    "main.js": "/savvy-weather-app/static/js/main.0eda2f01.js",
-    "static/js/787.9895faeb.chunk.js": "/savvy-weather-app/static/js/787.9895faeb.chunk.js",
-    "static/media/logo.svg": "/savvy-weather-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/savvy-weather-app/static/css/main.14f38bfa.css",
+    "main.js": "/savvy-weather-app/static/js/main.1589ca37.js",
+    "static/media/bg1.png": "/savvy-weather-app/static/media/bg1.529ca50efc5ef6adc9aa.png",
+    "static/media/bg2.png": "/savvy-weather-app/static/media/bg2.6b5ac53bf4939981f731.png",
+    "static/media/bg3.png": "/savvy-weather-app/static/media/bg3.c214a47111e6c523c821.png",
+    "static/media/windy.svg": "/savvy-weather-app/static/media/windy.8e82a87e83a3fe3c63f46dd41e99a060.svg",
+    "static/media/hum.svg": "/savvy-weather-app/static/media/hum.72b92500b580f0201fb08a3ec492b3f2.svg",
+    "static/media/Arrow - Down Square.svg": "/savvy-weather-app/static/media/Arrow - Down Square.5a5902028213d22972bcd4d73bc39db9.svg",
     "index.html": "/savvy-weather-app/index.html",
-    "main.073c9b0a.css.map": "/savvy-weather-app/static/css/main.073c9b0a.css.map",
-    "main.0eda2f01.js.map": "/savvy-weather-app/static/js/main.0eda2f01.js.map",
-    "787.9895faeb.chunk.js.map": "/savvy-weather-app/static/js/787.9895faeb.chunk.js.map"
+    "static/media/Search.svg": "/savvy-weather-app/static/media/Search.b4cd2227e22c1e659c2b8243691381a7.svg",
+    "main.14f38bfa.css.map": "/savvy-weather-app/static/css/main.14f38bfa.css.map",
+    "main.1589ca37.js.map": "/savvy-weather-app/static/js/main.1589ca37.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0eda2f01.js"
+    "static/css/main.14f38bfa.css",
+    "static/js/main.1589ca37.js"
   ]
 }
